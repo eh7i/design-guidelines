@@ -45,3 +45,12 @@ X-Large: `font-size-xl`
 @font-size-lg: 18px
 @font-size-xl: 20px
 ```
+
+### Line Height
+```
+14
+16
+20
+22
+24
+```
