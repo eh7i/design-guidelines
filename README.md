@@ -14,7 +14,9 @@ Size Unit
 Base Font Size (1rem)  
 rem: root html element  
 16px  
-<code>@font-size-base: 16px;</code>  
+```
+@font-size-base: 16px;
+```
 
 Font Sizes  
 X-Small: xs  
