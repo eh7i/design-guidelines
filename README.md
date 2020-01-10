@@ -36,3 +36,12 @@ X-Large: `font-size-xl`
 @font-size-lg: @font-size-base * (1 + @size-unit)
 @font-size-xl: @font-size-base * (1 + @size-unit*2)
 ```
+
+```
+@font-size-base: 16px
+@font-size-xs: 12px
+@font-size-sm: 14px
+@font-size-md: 16px
+@font-size-lg: 18px
+@font-size-xl: 20px
+```
